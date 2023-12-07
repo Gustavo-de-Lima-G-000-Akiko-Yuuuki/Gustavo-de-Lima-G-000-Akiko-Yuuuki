@@ -1,14 +1,9 @@
 <h1 align="center">Bem-vindo! eu sou o Gustavo de Lima G e meu nickname Akiko_Yuuki</h1>
 <h1 align="center">Welcome! I'm Gustavo de Lima G and my nickname is Akiko_Yuuki</h1>
 
-<h3 align="center">Ao iniciar um novo projeto no Git, você se questiona sobre a terminologia a ser utilizada: "Origem" ou "Main"? Qual é a melhor opção do ponto de vista histórico e inclusivo? Vamos refletir sobre isso juntos! 🤔</h3>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=NotSlater)
+<h3 align="center">É mais facil trabalhar com maquinas do que com pessoas.</h3>
 
 # _STATUS_
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotSlater&theme=tokyonight)
-
 
 
 - I’m currently working on **Python Automation, Game Hacking, and Reverse Engineering**
