@@ -3,7 +3,3 @@
 
 <h3 align="center">É mais facil trabalhar com maquinas do que com pessoas.</h3>
 
-# _STATUS_
-
-
-### Também sou gamer, então você pode me encontrar em:
