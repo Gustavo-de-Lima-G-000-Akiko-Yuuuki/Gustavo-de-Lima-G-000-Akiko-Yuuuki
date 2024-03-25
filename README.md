@@ -27,3 +27,7 @@ Habilidades: PY / REACT / JS / HTML / CSS / C++/ C /C#
   </p>
 
 </div>
+
+arm-none-eabi-objcopy -O ihex ${ProjName}.elf ${ProjName}.hex
+
+
