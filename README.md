@@ -23,7 +23,7 @@ Habilidades: PY / REACT / JS / HTML / CSS / C++/ C /C#
   <!-- Link para o currículo -->
   <p align="center">
     <b>Currículo:</b><br>
-    <a href="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Curr-culo-Gustavo-de-Lima-G/blob/main/Curriculo%20Gustavo%20de%20Lima%20G.pdf">PDF</a>
+     <!-- <a href="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Curr-culo-Gustavo-de-Lima-G/blob/main/Curriculo%20Gustavo%20de%20Lima%20G.pdf">PDF</a> -->
   </p>
 
 </div>
