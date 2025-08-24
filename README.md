@@ -1,6 +1,8 @@
 ### Olá! 👋, meu nome é Gustavo de Lima G e meu nickname é Akiko_Yuuki
 ### Hello! 👋, my name is Gustavo de Lima G and my nickname is Akiko_Yuuki
 #### #É mais fácil trabalhar com máquinas do que com pessoas
+![Sou o criador do GitHub Readme Generator](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Gustavo-de-Lima-G-000-Akiko-Yuuuki/blob/main/a54a6421-804e-419f-a4ff-b113bfe5de8a.png)
+
 ![Sou o criador do GitHub Readme Generator](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Gustavo-de-Lima-G-000-Akiko-Yuuuki/blob/main/img_6.jpg)
 
 Habilidades: PY / REACT / JS / HTML / CSS / C++/ C /C#
