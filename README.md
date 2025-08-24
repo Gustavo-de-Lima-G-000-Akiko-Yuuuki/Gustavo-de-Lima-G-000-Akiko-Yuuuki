@@ -4,6 +4,13 @@
 
 Este perfil unificado combina as experiências e habilidades de Alan Melendez e Gustavo de Lima G. (Akiko_Yuuki), dois desenvolvedores fullstack apaixonados por tecnologia e inovação.
 
+### Olá! 👋, meu nome é Gustavo de Lima G e meu nickname é Akiko_Yuuki
+#### #É mais fácil trabalhar com máquinas do que com pessoas
+
+![Sou o criador do GitHub Readme Generator](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Gustavo-de-Lima-G-000-Akiko-Yuuuki/blob/main/a54a6421-804e-419f-a4ff-b113bfe5de8a.png)
+
+![Sou o criador do GitHub Readme Generator](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Gustavo-de-Lima-G-000-Akiko-Yuuuki/blob/main/img_6.jpg)
+
 ## Sobre Nós
 
 **Alan Melendez** é um desenvolvedor fullstack do México, focado em criar soluções robustas e inovadoras para aplicações web e móveis, com ênfase em experiências de usuário excepcionais. Ele está sempre buscando aprender e explorar novas tecnologias.
@@ -13,6 +20,12 @@ Este perfil unificado combina as experiências e habilidades de Alan Melendez e 
 ## Habilidades e Tecnologias
 
 ### Linguagens de Programação
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=ffffff)
 
 - C# (.NET8+)
 - PHP (Laravel)
@@ -32,6 +45,13 @@ Este perfil unificado combina as experiências e habilidades de Alan Melendez e 
 
 ### Bancos de Dados
 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![SqlServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=fff&style=for-the-badge)
+
 - MySQL
 - SQLServer
 - MongoDB
@@ -44,7 +64,17 @@ Este perfil unificado combina as experiências e habilidades de Alan Melendez e 
 - **Controle de Versão:** Git (GitHub)
 - **Containerização:** Docker
 - **Testes de API:** Postman
-- **Sistemas Operacionais:** Linux, macOS, Ubuntu, Windows, Debian
+### Sistemas Operacionais
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+- Linux
+- macOS
+- Ubuntu
+- Windows
+- Debian
 - **Servidores Web:** Apache, Nginx
 - **Cloud:** AWS, DigitalOcean
 - **Editores:** Visual Studio Code, Xcode
@@ -119,3 +149,31 @@ Este perfil unificado combina as experiências e habilidades de Alan Melendez e 
 
 - As imagens e o link para o currículo de Gustavo de Lima G. não foram incorporados diretamente no texto, mas as informações textuais foram consideradas.
 - O comando `arm-none-eabi-objcopy -O ihex ${ProjName}.elf ${ProjName}.hex` foi identificado como um comando técnico e não foi incluído no perfil unificado, pois não se encaixa na descrição de habilidades ou setup pessoal.
+
+
+
+## Organizações
+
+- (Nenhuma organização específica mencionada nos perfis fornecidos. Esta seção pode ser atualizada com informações relevantes no futuro.)
+
+
+
+
+## Conecte-se Conosco
+
+<x align="center">
+</br>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gusc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sdf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/sdf)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+</br>
+
+<!-- Link para o currículo -->
+<p align="center">
+<b>Currículo de Gustavo de Lima G.:</b><br>
+<!-- <a href="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Curr-culo-Gustavo-de-Lima-G/blob/main/Curriculo%20Gustavo%20de%20Lima%20G.pdf">PDF</a> -->
+</p>
+
+</x>
+
+
