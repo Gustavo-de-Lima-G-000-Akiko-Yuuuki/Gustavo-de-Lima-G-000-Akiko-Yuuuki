@@ -139,18 +139,9 @@ Gustavo possui vasta experiência com a família de microcontroladores STM32 da 
 - **Depuração e Otimização:** Utilização de ferramentas como ST-Link e depuradores JTAG/SWD para identificar e resolver problemas de hardware/software, além de otimizar o consumo de energia e o desempenho do código.
 - **Projetos Aplicados:** Desenvolvimento de sistemas de automação industrial, dispositivos IoT conectados à nuvem e controle de sistemas embarcados complexos.
 
-### Experiência com PIC (Microchip)
-
-Com conhecimento aprofundado na arquitetura PIC da Microchip, Gustavo tem experiência em projetos que exigem robustez, baixo custo e flexibilidade. Sua experiência inclui:
-
-- **Programação em C/Assembly:** Desenvolvimento de firmware para microcontroladores PIC16, PIC18 e dsPIC, utilizando o MPLAB X IDE e compiladores XC8/XC16.
-- **Controle de Periféricos:** Configuração e uso de módulos como timers, interrupções, comunicação serial (UART, SPI, I2C) e módulos de captura/comparação/PWM (CCP).
-- **Aplicações de Baixo Consumo:** Otimização de código e hardware para aplicações com restrições de energia, como dispositivos alimentados por bateria.
-- **Sistemas Legados e Novas Implementações:** Manutenção e aprimoramento de sistemas existentes baseados em PIC, bem como o desenvolvimento de novas soluções.
-
 ### Experiência com Arduino e Variantes
 
-Gustavo domina o ecossistema Arduino, utilizando-o para prototipagem rápida, projetos educacionais e aplicações de pequeno e médio porte. Sua experiência inclui:
+Gustavo, utilizando-o para prototipagem rápida, projetos educacionais e aplicações de pequeno e médio porte. Sua experiência inclui:
 
 - **Programação na IDE Arduino:** Desenvolvimento de sketches em C++ para placas Arduino Uno, Mega, ESP32, ESP8266 e outras variantes.
 - **Integração de Sensores e Atuadores:** Conexão e programação de uma vasta gama de sensores (temperatura, umidade, ultrassom, etc.) e atuadores (relés, motores de passo, servos).
