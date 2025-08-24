@@ -102,29 +102,6 @@ Este perfil unificado combina as experiências e habilidades Gustavo de Lima G. 
 - **Pronomes:** HUMANO
 - **Curiosidade:** Apesar dos desafios, a interação humana é necessária.
 
-
-
-## Organizações
-
-- relevantes no futuro.
-
-
-
-## Conecte-se
-
-<x align="center">
-</br>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/gusc)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/asd/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sdf)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/sdf)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-</br>
-
-</x>
-
-
-
-
-
 ## Microcontroladores e Sistemas Embarcados
 
 Com uma sólida experiência no desenvolvimento e implementação de soluções baseadas em microcontroladores, Gustavo de Lima G. (Akiko_Yuuki) possui proficiência em diversas arquiteturas e plataformas, desde as mais robustas e complexas até as mais acessíveis e de prototipagem rápida. Sua expertise abrange o ciclo completo de desenvolvimento, incluindo a seleção de componentes, design de hardware, programação de firmware, depuração e otimização de desempenho para aplicações embarcadas.
