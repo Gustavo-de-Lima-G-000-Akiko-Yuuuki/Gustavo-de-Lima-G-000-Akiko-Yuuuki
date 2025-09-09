@@ -70,10 +70,6 @@ Este perfil unificado combina as experiências e habilidades Gustavo de Lima G. 
 
 ### Gustavo de Lima G. (Akiko_Yuuki)
 
-- **LinkedIn:** [https://www.linkedin.com/in/asd/](https://www.linkedin.com/in/asd/)
-- **GitHub:** [https://github.com/gusc](https://github.com/gusc)
-- **Facebook:** [https://www.facebook.com/sdf](https://www.facebook.com/sdf)
-- **YouTube:** [https://www.youtube.com/channel/sdf](https://www.youtube.com/channel/sdf)
 - **Steam:** (Link não funcional, removido)
 
 ## Configuração de Trabalho (Work Setup Daily)
