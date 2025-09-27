@@ -10,7 +10,7 @@ Este perfil unificado combina as experiências e habilidades Gustavo de Lima G. 
 
 ## Curiosidades
 
-- **Pronomes:** HUMANO
+- **EU:** HUMANO
 - **Curiosidade:** Apesar dos desafios, a interação humana é necessária.
 
 
