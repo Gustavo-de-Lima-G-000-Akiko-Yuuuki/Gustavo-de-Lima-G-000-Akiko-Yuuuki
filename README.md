@@ -125,7 +125,10 @@ Gustavo, utilizando-o para prototipagem rápida, projetos educacionais e aplica�
 Esta seção demonstra a versatilidade de Gustavo no campo dos sistemas embarcados, sua capacidade de adaptar-se a diferentes plataformas e sua paixão por transformar ideias em soluções funcionais e eficientes.
 
 
+⚙️ Automação e Segurança de Sistemas
+Acredito no poder da automação e da segurança da informação como pilares da eficiência em ambientes de TI. Com isso, recomendo as seguintes práticas:
 
+🔧 Automação de Sistemas
 
 ## Experiência em Inteligência Artificial (IA)
 
