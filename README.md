@@ -1,13 +1,10 @@
 # Perfil Unificado de Desenvolvedor Fullstack
 
 ## Olá! 👋
-
+###### Como não sou um livro limitados a paginas e ou tamanho venha conversar comigo diretamente!
 Este perfil unificado combina as experiências e habilidades Gustavo de Lima G. (Akiko_Yuuki), desenvolvedor fullstack apaixonado por tecnologia e inovação.
 
 ### Olá! 👋, meu nome é Gustavo de Lima G e meu nickname é Akiko_Yuuki
-#### #É mais fácil trabalhar com máquinas do que com pessoas
-
-
 ![Sou o criador do GitHub Readme Generator](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Gustavo-de-Lima-G-000-Akiko-Yuuuki/blob/main/img_6.jpg)
 
 ## Sobre Nós
