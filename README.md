@@ -12,6 +12,3 @@ Este perfil unificado combina as experiências e habilidades Gustavo de Lima G. 
 
 - **EU:** HUMANO
 - **Curiosidade:** Apesar dos desafios, a interação humana é necessária.
-https://drive.usercontent.google.com/download?id=1dnIqt9YNkafHQGxEqaoXd5SGtFjZR6ij&export=download&authuser=0
-
-https://drive.google.com/file/d/1zPX0Bs7NkYAPxVupJugojjXCnmNK1-C9/view?usp=sharing
