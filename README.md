@@ -7,6 +7,7 @@ Este perfil unificado combina as experiências e habilidades Gustavo de Lima G. 
 
 - Linux
 - Windows
+[![ArtPixel: clique e veja](https://seu-projeto.vercel.app/api/card?title=ArtPixel&subtitle=Meu+site&value=Clique+e+veja&icon=🎨&theme=dark&hide_border=true)](https://gustavo-de-lima-g-000-akiko-yuuuki.github.io/ArtPixel.github.io/)
 
 ## Curiosidades
 
