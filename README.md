@@ -10,7 +10,7 @@ Este perfil unificado combina as experiências e habilidades Gustavo de Lima G. 
 
 
 
-![ArtPixel Card](https://raw.githubusercontent.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/ArtPixel.github.io/main/gifx.gif)
+<img height="180em" src="https://gustavo-de-lima-g-000-akiko-yuuuki.github.io/CardArtPixel.github.io/card.svg?v=2" />
 
 ## Curiosidades
 
