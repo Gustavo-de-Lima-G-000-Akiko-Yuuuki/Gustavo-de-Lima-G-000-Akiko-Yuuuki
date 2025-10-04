@@ -9,8 +9,9 @@ Este perfil unificado combina as experiências e habilidades Gustavo de Lima G. 
 - Windows
 
 
-
-<img height="500em" src="https://raw.githubusercontent.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/CardArtPixel.github.io/7ed91812996d9a7afa29a681ae16fdcce4af9601/card.svg" />
+<div align="center">
+    <img height="500em" src="https://raw.githubusercontent.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/CardArtPixel.github.io/7ed91812996d9a7afa29a681ae16fdcce4af9601/card.svg" />
+</div>
 
 ## Curiosidades
 
