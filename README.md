@@ -10,7 +10,7 @@ Este perfil unificado combina as experiências e habilidades Gustavo de Lima G. 
 
 
 
-<img height="500em" src="https://gustavo-de-lima-g-000-akiko-yuuuki.github.io/CardArtPixel.github.io/card.svg?v=2" />
+<img height="500em" src="https://raw.githubusercontent.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/CardArtPixel.github.io/7ed91812996d9a7afa29a681ae16fdcce4af9601/card.svg" />
 
 ## Curiosidades
 
