@@ -1,3 +1,6 @@
+[![Header](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Gustavo-de-Lima-G-000-Akiko-Yuuuki/blob/main/IMAGE.png?raw=true
+)](www.linkedin.com/in/gustavo-lima-garcia-312b81272)
+
 # Como não sou um livro limitado a paginas e ou tamanho venha conversar comigo diretamente!
 
 ## Olá! 👋
