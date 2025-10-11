@@ -1,7 +1,7 @@
 [![Header](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Gustavo-de-Lima-G-000-Akiko-Yuuuki/blob/main/IMAGE.png?raw=true
 )](www.linkedin.com/in/gustavo-lima-garcia-312b81272)
 
-#Capuccino e venha direto ao ponto, fale diretamente!
+# Capuccino e venha direto ao ponto, fale diretamente!
 
 ## Olá! 👋
 Este perfil unificado combina as experiências e habilidades Gustavo de Lima G. (Akiko_Yuuki), desenvolvedor fullstack apaixonado por tecnologia e inovação.
