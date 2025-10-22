@@ -8,9 +8,7 @@ Sou **Gustavo de Lima G. (Akiko_Yuuki)** — um desenvolvedor *full stack* apaix
 
 Atualmente atuo em projetos próprios e colaborativos nas áreas de desenvolvimento, tradução, testes e suporte técnico, com experiência em diferentes stacks tecnológicas.
 
-<div align="center">
-  <img height="500" alt="Card Art Pixel – portfólio em cards" src="https://raw.githubusercontent.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/CardArtPixel.github.io/7ed91812996d9a7afa29a681ae16fdcce4af9601/card.svg" />
-</div>
+<div align="center"> <img height="500em" alt="Card Art Pixel" src="https://raw.githubusercontent.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/CardArtPixel.github.io/7ed91812996d9a7afa29a681ae16fdcce4af9601/card.svg" /> </div>
 
 ## 🎯 Curiosidade
 - **Eu:** humano, curioso e sempre aprendendo! 😄
