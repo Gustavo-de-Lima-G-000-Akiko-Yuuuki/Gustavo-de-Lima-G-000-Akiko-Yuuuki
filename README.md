@@ -108,6 +108,16 @@ Atualmente atuo em projetos próprios e colaborativos nas áreas de desenvolvime
       <sub>Estudos e testes com braço robótico SCARA</sub>
     </td>
   </tr>
+      <td width="33%" align="center">
+      <a href="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/ETECSCARA">
+        <img alt="ETEC SCARA" src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/mesa-pantografica-web/raw/main/Capturar.PNG?raw=true" width="100%" />
+      </a>
+      <br/>
+      <sub><b>ETEC SCARA</b></sub>
+      <br/>
+      <sub>Estudos e testes com braço robótico SCARA</sub>
+    </td>
+  </tr>
 </table>
 
 ---
