@@ -14,51 +14,50 @@ Atualmente atuo em projetos próprios e colaborativos nas áreas de desenvolvime
 - **Eu:** humano, curioso e sempre aprendendo! 😄
 
 ---
-
 ## 🚀 Projetos em Destaque
 
 > As imagens abaixo são screenshots dos projetos hospedados nos respectivos repositórios.  
-> **Clique** em qualquer imagem para acessar o código fonte.
+> **Clique** em qualquer imagem para acessar o código-fonte.
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <a href="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/mesa-pantografica-web">
-        <img alt="Mesa Pantográfica - Cálculo e visualização" src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Rohdina-Caixa-Inventor/blob/main/Capturar.PNG?raw=true" width="100%" />
+      <a href="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Rohdina-Caixa-Inventor">
+        <img alt="Rohdina – Caixa (Inventor)" src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Rohdina-Caixa-Inventor/blob/main/Capturar.PNG?raw=true" width="100%" />
       </a>
       <br/>
-      <sub><b>Mesa Pantográfica Web</b></sub>
+      <sub><b>Rohdina – Caixa (Inventor)</b></sub>
       <br/>
-      <sub>App web para cálculo e visualização de mesas pantográficas</sub>
+      <sub>Modelagem/arquivos CAD de caixa (Autodesk Inventor)</sub>
     </td>
     <td width="33%" align="center">
+      <a href="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/ArtPixel.github.io">
+        <img alt="Art Pixel" src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/ArtPixel.github.io/blob/main/gif%20diy.gif?raw=true" width="100%" />
+      </a>
+      <br/>
+      <sub><b>Art Pixel</b></sub>
+      <br/>
+      <sub>Site estático com artes em pixel (GitHub Pages)</sub>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Menu-.BAT-Suporte-T-cnico-Avan-ado">
+        <img alt="Menu .BAT — Suporte Técnico Avançado" src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Menu-.BAT-Suporte-T-cnico-Avan-ado/blob/main/imagem.png?raw=true" width="100%" />
+      </a>
+      <br/>
+      <sub><b>Menu .BAT — Suporte Técnico Avançado</b></sub>
+      <br/>
+      <sub>Menu em batch com utilitários de suporte e automação</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
       <a href="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/GPU-Selenium-web-search">
-        <img alt="GPU Selenium Web Search" src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/ArtPixel.github.io/blob/main/gif%20diy.gif?raw=true" width="100%" />
+        <img alt="GPU Selenium Web Search" src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/GPU-Selenium-web-search/blob/main/Image2.png?raw=true" width="100%" />
       </a>
       <br/>
       <sub><b>GPU Selenium Web Search</b></sub>
       <br/>
       <sub>Automação de buscas e scraping com Selenium/WebDriver</sub>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/CardArtPixel.github.io">
-        <img alt="Card Art Pixel" src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Menu-.BAT-Suporte-T-cnico-Avan-ado/blob/main/imagem.png?raw=true" width="100%" />
-      </a>
-      <br/>
-      <sub><b>Card Art Pixel</b></sub>
-      <br/>
-      <sub>Site estático com artes em cards (GitHub Pages)</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Algo_com_opencv">
-        <img alt="OpenCV Experiments" src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/GPU-Selenium-web-search/blob/main/Image2.png?raw=true" width="100%" />
-      </a>
-      <br/>
-      <sub><b>Algoritmos com OpenCV</b></sub>
-      <br/>
-      <sub>Experimentos de visão computacional com OpenCV</sub>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/grbl-Mega-edge-platformio.ini">
@@ -82,7 +81,7 @@ Atualmente atuo em projetos próprios e colaborativos nas áreas de desenvolvime
   <tr>
     <td width="33%" align="center">
       <a href="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Totalmente_inutil_TTLI">
-        <img alt="Totalmente Inútil" src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Totalmente_inutil_TTLI/blob/main/Capturar1.PNG?raw=true" width="100%" />
+        <img alt="Totalmente Inútil (TTLI)" src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Totalmente_inutil_TTLI/blob/main/Capturar1.PNG?raw=true" width="100%" />
       </a>
       <br/>
       <sub><b>Totalmente Inútil (TTLI)</b></sub>
@@ -108,17 +107,19 @@ Atualmente atuo em projetos próprios e colaborativos nas áreas de desenvolvime
       <sub>Estudos e testes com braço robótico SCARA</sub>
     </td>
   </tr>
-      <td width="33%" align="center">
-      <a href="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/ETECSCARA">
-        <img alt="ETEC SCARA" src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/mesa-pantografica-web/raw/main/Capturar.PNG?raw=true" width="100%" />
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/mesa-pantografica-web">
+        <img alt="Mesa Pantográfica Web" src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/mesa-pantografica-web/raw/main/Capturar.PNG?raw=true" width="100%" />
       </a>
       <br/>
-      <sub><b>ETEC SCARA</b></sub>
+      <sub><b>Mesa Pantográfica Web</b></sub>
       <br/>
-      <sub>Estudos e testes com braço robótico SCARA</sub>
+      <sub>App web para cálculo e visualização de mesas pantográficas</sub>
     </td>
   </tr>
 </table>
+
 
 ---
 
