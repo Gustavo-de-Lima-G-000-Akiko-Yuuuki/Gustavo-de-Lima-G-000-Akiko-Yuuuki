@@ -16,6 +16,6 @@ Atualmente atuo em projetos próprios e colaborativos nas áreas de desenvolvime
 
 <div align="center">
   
-### 💡 *"Código é poesia, tecnologia é arte"*
+### *"Código é a base, tecnologia é arte"*
   
 </div>
