@@ -19,3 +19,11 @@ Atualmente atuo em projetos próprios e colaborativos nas áreas de desenvolvime
 ### *"Código é a base, tecnologia é arte"*
   
 </div>
+<hr>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=Gustavo-de-Lima-G-000-Akiko-Yuuuki&color=red" alt="Profile views" /> 
+</p>
+
+##
+
