@@ -1,4 +1,4 @@
-# Olá! 👋 Seja bem-vindo ao meu perfil!
+![Imagem de Propaganda](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Gustavo-de-Lima-G-000-Akiko-Yuuuki/blob/main/IMAGE.png?raw=true)
 
 ## Sobre mim
 
