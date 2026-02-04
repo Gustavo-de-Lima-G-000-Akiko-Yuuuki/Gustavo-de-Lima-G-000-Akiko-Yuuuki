@@ -1,5 +1,24 @@
 ![Imagem de Propaganda](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Gustavo-de-Lima-G-000-Akiko-Yuuuki/blob/main/IMAGE.png?raw=true)
 
+<p>
+  <h3>Algumas palavras sobre mim</h3>
+  <img align="right" widht="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
+  
+- 🖥️ Estudante de Engenharia da Computação e aspirante a desenvolvedor Full-Stack..
+
+- 🌱 Estou aprendendo *Constantemente*
+  
+- 🎮 Sou gamer gosto de desenvolver games tambem meus gêneros de jogos favoritos são: **FPS,  Aventura e estratégia**.
+  
+- 😁✌️ Entusiasta de design de UI/UX, desenvolvimento Full-stack e anime..
+
+- 👨‍💻 Tenho os meus projetos e aos poucos postando um pouco de engenharia, robotica, mecanica)
+  
+- 💬 Consulte-me sobre **Drones, programação, IA, Projetos**
+ 
+- ⚡ Curiosidade: **Dependendo sou muito aleatório**
+
+</p>
 ## Sobre mim
 
 Sou **Gustavo de Lima G. (Akiko_Yuuki)** — um desenvolvedor *full stack* apaixonado por tecnologia, inovação e soluções criativas.
