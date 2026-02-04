@@ -5,7 +5,9 @@
   <img align="right" widht="300" height="300" src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Gustavo-de-Lima-G-000-Akiko-Yuuuki/blob/main/gif%20diy.gif?raw=true" />
   
 - 🖥️ Estudante de Engenharia da Computação e aspirante a desenvolvedor Full-Stack..
-
+  
+- 🤖 Entusiasta de desenvolvimento de maquinas.*
+  
 - 🌱 Estou aprendendo *Constantemente*
   
 - 🎮 Sou gamer gosto de desenvolver games tambem meus gêneros de jogos favoritos são: **FPS,  Aventura e estratégia**.
