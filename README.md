@@ -1,7 +1,7 @@
 ![Imagem de Propaganda](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Gustavo-de-Lima-G-000-Akiko-Yuuuki/blob/main/IMAGE.png?raw=true)
 
 <p>
-  <h3>Rogo vênia para traçar alguns apontamentos relativos ao meu caráter, porquanto sinto-me deveras inclinado a me dar a conhecer</h3>
+  <h3>Alguns apontamentos relativos ao meu caráter, que é deveras reservado:</h3>
   <img align="right" widht="300" height="300" src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Gustavo-de-Lima-G-000-Akiko-Yuuuki/blob/main/gif%20diy.gif?raw=true" />
   
 - 🖥️ Estudante de Engenharia da Computação e aspirante a desenvolvedor Full-Stack..
