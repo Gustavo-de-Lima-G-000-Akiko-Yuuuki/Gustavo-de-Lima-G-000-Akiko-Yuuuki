@@ -1,8 +1,8 @@
 ![Imagem de Propaganda](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Gustavo-de-Lima-G-000-Akiko-Yuuuki/blob/main/IMAGE.png?raw=true)
 
 <p>
-  <h3>Algumas palavras sobre mim</h3>
-  <img align="right" widht="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
+  <h3>Rogo vênia para traçar alguns apontamentos relativos ao meu caráter, porquanto sinto-me deveras inclinado a me dar a conhecer</h3>
+  <img align="right" widht="300" height="300" src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Gustavo-de-Lima-G-000-Akiko-Yuuuki/blob/main/gif%20diy.gif?raw=true" />
   
 - 🖥️ Estudante de Engenharia da Computação e aspirante a desenvolvedor Full-Stack..
 
@@ -19,9 +19,9 @@
 - ⚡ Curiosidade: **Dependendo sou muito aleatório**
 
 </p>
-## Sobre mim
+  <h3>Eu:</h3>
 
-Sou **Gustavo de Lima G. (Akiko_Yuuki)** — um desenvolvedor *full stack* apaixonado por tecnologia, inovação e soluções criativas.
+Sou **Gustavo de Lima G.** nickname (( Akiko_Yuuki )) — um desenvolvedor *full stack* apaixonado por tecnologia, inovação e soluções criativas.
 
 Atualmente atuo em projetos próprios e colaborativos nas áreas de desenvolvimento, tradução, testes e suporte técnico, com experiência em diferentes stacks tecnológicas.
 
