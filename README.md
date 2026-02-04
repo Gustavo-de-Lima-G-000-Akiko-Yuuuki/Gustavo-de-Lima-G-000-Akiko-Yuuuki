@@ -6,13 +6,13 @@
   
 - 🖥️ Estudante de Engenharia da Computação e aspirante a desenvolvedor Full-Stack..
   
-- 🤖 Entusiasta de desenvolvimento de maquinas.*
+- 🤖 Entusiasta de desenvolvimento de maquinas
   
 - 🌱 Estou aprendendo *Constantemente*
   
-- 🎮 Sou gamer gosto de desenvolver games tambem meus gêneros de jogos favoritos são: **FPS,  Aventura e estratégia**.
+- 🎮 Sou gamer gosto de desenvolver games tambem meus gêneros de jogos favoritos são: **FPS,  Aventura e estratégia**
   
-- 😁✌️ Entusiasta de design de UI/UX, desenvolvimento Full-stack e anime..
+- 😁✌️ Entusiasta de design de UI/UX, desenvolvimento Full-stack e anime...
 
 - 👨‍💻 Tenho os meus projetos e aos poucos postando um pouco de engenharia, robotica, mecanica)
   
