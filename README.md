@@ -1,13 +1,14 @@
 <div align="center">
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> <br>
 
 <!-- AESTHETIC LINE START-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> <br>
 <div align="left">
 <!-- AESTHETIC LINE END -->
 
 	
 ![Imagem de Propaganda](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Gustavo-de-Lima-G-000-Akiko-Yuuuki/blob/main/IMAGE.png?raw=true)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> <br>
 
 <p>
   <h3>Alguns apontamentos relativos ao meu caráter, que é deveras reservado:</h3>
