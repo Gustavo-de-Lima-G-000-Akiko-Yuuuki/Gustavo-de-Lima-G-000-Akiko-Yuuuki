@@ -1,3 +1,12 @@
+<div align="center">
+
+
+<!-- AESTHETIC LINE START-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> <br>
+<div align="left">
+<!-- AESTHETIC LINE END -->
+
+	
 ![Imagem de Propaganda](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Gustavo-de-Lima-G-000-Akiko-Yuuuki/blob/main/IMAGE.png?raw=true)
 
 <p>
@@ -47,4 +56,9 @@ Atualmente atuo em projetos próprios e colaborativos nas áreas de desenvolvime
 </p>
 
 ##
+<div align="center">
 
+
+<!-- AESTHETIC LINE START-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> <br>
+<!-- AESTHETIC LINE END -->
